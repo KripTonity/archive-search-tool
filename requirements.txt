@@ -1,0 +1,4 @@
+pywebview
+dearpygui
+requests
+beautifulsoup4
